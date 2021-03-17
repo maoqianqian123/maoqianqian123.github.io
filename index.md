@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Qian Mao(毛倩)</h1>
+      <p><b>Master degree candidate</b></p>
+      <p><b>E-mail：784515733@qq.com</b></p>
+      <p><b>Address：428 Laboratory, School of Information Science and Engineering, Shandong Normal University</b></p>
+    </td>
+    <td width="25%">
+      <img src="/照片.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/maoqianqian123/maoqianqian123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
+1. Multimodal Heterogeneous Network Learning
+2. Medical and Health Big Data
+3. Interpretable AI
+4. Personalized Recommendation
 
-### Markdown
+## Selected Publications
+1. [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf)
+   
+   code:[https://github.com/znxlwm/UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maoqianqian123/maoqianqian123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
